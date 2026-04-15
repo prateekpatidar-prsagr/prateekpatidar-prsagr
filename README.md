@@ -45,8 +45,3 @@
 * **CompTIA:** Network+, Cloud Essentials, Security+, IT Fundamentals
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekpatidar-prsagr&show_icons=true&theme=radium&hide_border=true" alt="Prateek's GitHub Stats" />
-</p>
