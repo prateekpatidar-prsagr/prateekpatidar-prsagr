@@ -11,6 +11,7 @@
 <div align="center">
   <a href="mailto:prateekpatidariant@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prateekpatidar-prsagr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://prateekpatidar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0e1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
 </div>
 
 ---
